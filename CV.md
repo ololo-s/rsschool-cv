@@ -8,3 +8,18 @@
 |Date of birth:|14th June 1988 |
 | Nationality: | Ukrainian |
 | Marial status:| Married |
+#### Objective ####
+I want to obtain a position as a front-end developer
+#### Education ####
+National Technical University of Ukraine
+“Igor Sikorsky Kyiv Polytechnic Institute”, Faculty of Applied Mathematics, bachelor
+#### Personal qualities ####
+* Articulate
+* Broad-minded
+* Dependable
+* Determined
+* Initiative
+* Versatile
+#### Special skills ####
+* English (B1 - B2)
+* Driving License (Category B)
