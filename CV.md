@@ -1,4 +1,5 @@
 # Olha Solovei #
+[![N|Solid](https://icons-for-free.com/iconfiles/png/128/facebook+logo+logo+website+icon-1320190502625926346.png)](https://www.facebook.com/o.keksovna)
 #### Personal information ####
 | Email: | o.keksovna@gmail.com |
 | ------ | ------ |
